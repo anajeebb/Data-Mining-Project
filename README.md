@@ -1,4 +1,4 @@
-This project was completed as part of the [Insert Course Name/Number Here] course and focuses on applying classification techniques to solve a critical e-commerce business problem.
+This project was completed as part of the Data Mining course and focuses on applying classification techniques to solve a critical e-commerce business problem.
 
 ## 🎯 Goal & Problem Definition
 
