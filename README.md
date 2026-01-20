@@ -30,4 +30,4 @@ The model was specifically tuned to achieve high **Precision**, as the cost of a
 The use of Logistic Regression allowed for clear interpretation of the features driving the prediction. The analysis showed that **purchase volume** (Total Items and Total Invoices) was the strongest positive predictor of high customer value.
 
 
-**Contact:** [Insert LinkedIn or Email Here]
+**Contact:** abdallahnajeeb8@gmail.com
